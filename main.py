@@ -2,7 +2,7 @@ import openai
 from selenium import webdriver
 
 # Initialize the OpenAI API client
-openai.api_key = "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"
+openai.api_key = "API KEY GOES HERE"
 driver = webdriver.Chrome()
 
 initial_context = """You are my valued virtual assistant. Your task is to help me interact with websites dynamically,
